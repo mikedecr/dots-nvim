@@ -34,6 +34,11 @@ set backspace=indent,eol,start
 " highlight ColorColumn ctermbg=0 guibg=darkgrey
 
 
+" --- interactivity ---
+set mouse=a                  " click around
+set paste                    " enable system paste
+set clipboard+=unnamedplus   " yank to system clipboard
+
 
 " other
 set mouse=a            " click around
