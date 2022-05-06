@@ -1,4 +1,8 @@
-" line numbers
+" -------------------------------------------
+" see **HIDDEN SEMESTER OF CS** Vim notes: 
+" https://missing.csail.mit.edu/2020/editors/
+" -------------------------------------------
+
 set number 
 set relativenumber
 set cursorline
