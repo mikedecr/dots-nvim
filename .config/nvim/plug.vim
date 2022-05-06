@@ -3,6 +3,7 @@ call plug#begin()
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 Plug 'tpope/vim-surround'
+Plug 'tpope/vim-fugitive'
 
 " code completion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
