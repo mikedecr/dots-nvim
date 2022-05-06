@@ -21,6 +21,7 @@ set softtabstop=2      " how many cols the cursor moves upon tab
 set smarttab           " tab deletion and scrolling? 
 set expandtab          " tabs as spaces
 set autoindent
+set smartindent
 
 " --- wrapping behavior ---
 set linebreak
