@@ -34,6 +34,9 @@ set backspace=indent,eol,start
 " highlight ColorColumn ctermbg=0 guibg=darkgrey
 
 
+" --- buffer behaviors ---
+set scrolloff=1   " scroll offset
+
 " --- interactivity ---
 set mouse=a                  " click around
 set paste                    " enable system paste
