@@ -43,9 +43,9 @@ set paste                    " enable system paste
 set clipboard+=unnamedplus   " yank to system clipboard
 
 
-" other
-set mouse=a            " click around
-" :set paste
+" --- search ---
+set ignorecase   " ignore case in searches 
+set smartcase    " UNLESS search contains capitalization
 
 " yank to system clipboard
 set clipboard+=unnamedplus
