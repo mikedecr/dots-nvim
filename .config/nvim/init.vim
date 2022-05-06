@@ -3,6 +3,12 @@
 " https://missing.csail.mit.edu/2020/editors/
 " -------------------------------------------
 
+" undo directory
+set undodir=~/.vim/undo_dir
+set undofile
+
+
+" --- lines ---
 set number 
 set relativenumber
 set cursorline
