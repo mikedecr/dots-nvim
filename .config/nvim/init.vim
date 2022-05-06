@@ -28,6 +28,11 @@ set linebreak
 set whichwrap+=<,>,h,l,[,]
 set backspace=indent,eol,start
 
+" set ruler
+" set textwidth=90
+" set colorcolumn=90
+" highlight ColorColumn ctermbg=0 guibg=darkgrey
+
 
 
 " other
