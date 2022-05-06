@@ -8,6 +8,9 @@
 " seems this is also set in system .vimrc but better safe than sorry
 set nocompatible
 
+" allows unsaved hidden buffers, which is risky but useful.
+" set hidden
+
 " undo directory
 set undodir=~/.vim/undo_dir
 set undofile
