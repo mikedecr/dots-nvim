@@ -26,6 +26,8 @@ set smartindent
 " --- wrapping behavior ---
 set linebreak
 set whichwrap+=<,>,h,l,[,]
+set backspace=indent,eol,start
+
 
 
 " other
