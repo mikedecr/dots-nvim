@@ -3,6 +3,11 @@
 " https://missing.csail.mit.edu/2020/editors/
 " -------------------------------------------
 
+" --- general / inherent functionality ---
+" always use Vim features instead of Vi-compatibility mode
+" seems this is also set in system .vimrc but better safe than sorry
+set nocompatible
+
 " undo directory
 set undodir=~/.vim/undo_dir
 set undofile
